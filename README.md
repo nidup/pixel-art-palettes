@@ -24,9 +24,18 @@
  - [Galaxy Flame](https://lospec.com/palette-list/galaxy-flame)
  - [16 Bital](https://lospec.com/palette-list/16-bital)
 
+## 20 colors
+
+ - [20P DX](https://lospec.com/palette-list/20p-dx)
+
+## 24 colors
+
+ - [Fantasy 24](https://lospec.com/palette-list/fantasy-24)
+
 # Other sources
 
  - [Cool list of retro palettes](https://stuartspixelgames.com/2018/07/15/retro-game-colour-palettes-and-tools/)
  - [Large list of palettes](https://lospec.com/palette-list)
  - [Large list of tutorials](https://lospec.com/pixel-art-tutorials)
  - [Pixel Art Tutorials](https://blog.studiominiboss.com/pixelart)
+ - [Pixel Art Tutorials](https://www.slynyrd.com/blog)
